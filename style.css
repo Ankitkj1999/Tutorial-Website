@@ -148,7 +148,7 @@ body
     padding-right: 5em;
     
 }
-#apple
+#app
 {
     border-left: 4px solid rgb(42, 45, 235);
     padding-right: 100px;
@@ -221,6 +221,7 @@ div.polaroid {
 .social-icons img
 {
     width: 60px;
+    padding-right: 20px;
     transition: 0.5s;
 }
 .social-icons a:hover img
